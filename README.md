@@ -4,6 +4,21 @@ This repository is organized around the current CDC paper:
 
 `Parameter-Varying Observer Synthesis for Retired Battery Health Estimation under Pulse Testing at Random States of Charge`
 
+## Environment and requirements
+
+The codebase uses a small Python stack and has been tested with Python 3.12. The required third-party packages are listed in `requirements.txt`:
+
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `openpyxl`
+
+You can install them with:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Directory layout
 
 - `Data/raw/20Ah_LFP/`
