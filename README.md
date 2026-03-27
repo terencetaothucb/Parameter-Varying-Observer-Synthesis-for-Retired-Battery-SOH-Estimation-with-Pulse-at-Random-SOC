@@ -36,9 +36,9 @@ pip install -r requirements.txt
 - `scripts/plot_unseen_soc_interpolation_performance.py`
   Generates Fig. 3.
 - `scripts/plot_pulse_width_impact.py`
-  Generates the pulse-width robustness figure and its detail CSV.
+  Generates Fig. 4. the pulse-width robustness figure and its detail CSV.
 - `scripts/plot_pulse_amplitude_impact.py`
-  Generates the pulse-amplitude robustness figure and its detail CSV.
+  Generates Fig. 5. the pulse-amplitude robustness figure and its detail CSV.
 - `results/`
   Benchmark workbook and figure-level detail CSV files.
 - `figures/`
